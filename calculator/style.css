@@ -1,0 +1,90 @@
+body{
+
+    background-image: url("road.avif");
+    background-size: cover;
+	font-family: -apple-system, ;
+	font-weight: bold;
+	text-align: center;	
+	font-size: 20px;
+}
+
+.nav{
+
+	background-color: lightgreen;
+}
+
+h1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: blueviolet;
+
+}
+
+h2{
+	font-size: 30px;
+	margin-top: 0;
+	background: blue;
+
+}
+
+p{
+
+	margin-top: 0;
+	background: lightgreen;
+	height: 30px;
+
+ span {
+    border-bottom: 2px solid black;
+    padding: 4px;
+}
+
+
+	
+
+}
+
+button{
+
+	border:1px solid black;
+	width: 200px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	font-weight: bold;
+	margin-bottom: 10px;
+	border-radius: 5px;
+
+}
+
+#add-btn{
+	background: #2C2891;
+}
+
+#sub-btn{
+	background: darkorange;
+}
+
+
+#divide-btn{
+	background: #2C2891;
+}
+
+#multiply-btn{
+	background: darkorange;
+}
+
+#sum-btn{
+	background: darkorange;
+}
+
+.container{
+	background: lightgreen;
+	max-width: 50%;
+	margin: auto;
+	margin-top: 30px;
+	border: 3px solid black;
+	border-radius: 20px;
+
+}
+
+
